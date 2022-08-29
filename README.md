@@ -2,7 +2,7 @@
 
 <h3>Olá, pessoal 🖖🏾</h3>
 <hr>
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas pela UniNassau, gosto de ajudar as pessoas a resolverem seus problemas atraves da tecnologia.</p>
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas na UniNassau, gosto de ajudar as pessoas a resolverem seus problemas atraves da tecnologia.</p>
 <hr>
 <p>📖 Estudando HTML, CSS e JavaScript. (Além de todas as cadeiras da Universidade)</p>
 <p>🤔 Posso te ajudar com HTML e CSS.</p>
