@@ -2,9 +2,9 @@
 
 <h3>Olá, pessoal 🖖🏾</h3>
 <hr>
-<p>Sou estudante de desenvolvimento web, gosto de ajudar as pessoas a resolverem seus problemas atraves da tecnologia.</p>
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas pela UniNassau, gosto de ajudar as pessoas a resolverem seus problemas atraves da tecnologia.</p>
 <hr>
-<p>📖 Estudando HTML, CSS e JavaScript.</p>
+<p>📖 Estudando HTML, CSS e JavaScript. (Além de todas as cadeiras da Universidade)</p>
 <p>🤔 Posso te ajudar com HTML e CSS.</p>
 <p>💬 Sobre mim: Gosto de tecnologia, games, esportes, praia e música.</p>
 <p>🤳🏾Entre em contato comigo no  <a href="https://www.linkedin.com/in/guilherme-barros3/" target:"_blank"> <img width="20px"
